@@ -63,8 +63,8 @@ def evaluate(results, accuracy, f1):
     fig, ax = pl.subplots(2, 3, figsize = (11,8))
 
     # Constants
-    bar_width = 0.3
-    colors = ['#A00000','#00A0A0','#00A000']
+    bar_width = 0.24
+    colors = ['#5776ffe7','#ff1b1be7','#ffea76e7', '#7fff6fe7']
     
     # Super loop to plot four panels of data
     for k, learner in enumerate(results.keys()):
@@ -72,7 +72,7 @@ def evaluate(results, accuracy, f1):
             for i in np.arange(3):
                 
                 # Creative plot code
-                ax[j//3, j%3].bar(i+k*bar_width, results[learner][i][metric], width = bar_width, color = colors[k])
+                ax[j//3, j%3].bar(i+k*bar_width+0.098, results[learner][i][metric], width = bar_width, color = colors[k])
                 ax[j//3, j%3].set_xticks([0.45, 1.45, 2.45])
                 ax[j//3, j%3].set_xticklabels(["1%", "10%", "100%"])
                 ax[j//3, j%3].set_xlabel("Training Set Size")
