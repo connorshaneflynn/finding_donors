@@ -111,10 +111,10 @@ def evaluate(results, accuracy, f1):
     for i, learner in enumerate(results.keys()):
         patches.append(mpatches.Patch(color = colors[i], label = learner))
     pl.legend(handles = patches, bbox_to_anchor = (-.80, 2.53), \
-               loc = 'upper center', borderaxespad = 0., ncol = 3, fontsize = 'x-large')
+               loc = 'upper center', borderaxespad = 0., ncol = 4, fontsize = 'large')
     
     # Aesthetics
-    pl.suptitle("Performance Metrics for Three Supervised Learning Models", fontsize = 16, x = 0.63, y = 1.05)
+    pl.suptitle("Performance Metrics for Four Supervised Learning Models", fontsize = 16, x = 0.63, y = 1.05)
     # Tune the subplot layout
     # Refer - https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.pyplot.subplots_adjust.html for more details on the arguments
     pl.subplots_adjust(left = 0.125, right = 1.2, bottom = 0.1, top = 0.9, wspace = 0.2, hspace = 0.3)    

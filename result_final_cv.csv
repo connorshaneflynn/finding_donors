@@ -1,0 +1,973 @@
+max_depth,learning_rate,n_estimators,score,time
+3, 0.025, 175, 0.742, 42.4s
+3, 0.025, 175, 0.742, 43.9s
+3, 0.025, 175, 0.739, 44.5s
+3, 0.025, 175, 0.746, 44.9s
+3, 0.025, 175, 0.740, 44.9s
+3, 0.025, 175, 0.734, 46.8s
+3, 0.025, 200, 0.744, 50.7s
+3, 0.025, 200, 0.741, 51.0s
+3, 0.025, 200, 0.736, 51.5s
+3, 0.025, 200, 0.739, 51.8s
+3, 0.025, 200, 0.748, 52.4s
+3, 0.025, 200, 0.744, 53.2s
+3, 0.03, 175, 0.739, 41.4s
+3, 0.03, 175, 0.749, 42.2s
+3, 0.03, 175, 0.745, 44.1s
+3, 0.03, 175, 0.744, 45.5s
+3, 0.03, 175, 0.751, 47.4s
+3, 0.03, 175, 0.741, 46.4s
+3, 0.025, 225, 0.739, 57.0s
+3, 0.025, 225, 0.752, 58.6s
+3, 0.025, 225, 0.747, 57.9s
+3, 0.025, 225, 0.744, 58.7s
+3, 0.025, 225, 0.750, 59.0s
+3, 0.025, 225, 0.741,1.0min
+3, 0.03, 200, 0.745, 48.2s
+3, 0.03, 200, 0.756, 52.4s
+3, 0.03, 200, 0.748, 48.5s
+3, 0.03, 200, 0.749, 48.5s
+3, 0.03, 200, 0.747, 54.6s
+3, 0.03, 200, 0.750, 56.8s
+3, 0.03, 225, 0.758, 54.1s
+3, 0.03, 225, 0.755,1.0min
+3, 0.03, 225, 0.750, 58.3s
+3, 0.03, 225, 0.746,1.0min
+3, 0.03, 225, 0.756,1.0min
+3, 0.03, 225, 0.749,1.0min
+3, 0.035, 175, 0.754, 48.1s
+3, 0.035, 175, 0.756, 46.2s
+3, 0.035, 175, 0.740, 48.5s
+3, 0.035, 175, 0.758, 47.4s
+3, 0.035, 175, 0.746, 44.2s
+3, 0.035, 175, 0.749, 46.2s
+3, 0.035, 200, 0.754, 51.2s
+3, 0.035, 200, 0.758, 46.8s
+3, 0.035, 200, 0.757, 47.1s
+3, 0.035, 200, 0.739, 52.1s
+3, 0.035, 200, 0.752, 50.7s
+3, 0.035, 200, 0.749, 55.9s
+3, 0.035, 225, 0.747, 56.5s
+3, 0.035, 225, 0.752, 59.1s
+3, 0.035, 225, 0.760, 57.1s
+3, 0.035, 225, 0.758, 58.5s
+3, 0.035, 225, 0.746, 58.4s
+3, 0.035, 225, 0.755, 59.2s
+4, 0.025, 175, 0.758, 54.5s
+4, 0.025, 175, 0.756, 55.9s
+4, 0.025, 175, 0.752, 55.9s
+4, 0.025, 175, 0.760, 57.1s
+4, 0.025, 175, 0.741, 54.8s
+4, 0.025, 175, 0.753, 55.7s
+4, 0.025, 200, 0.756,1.0min
+4, 0.025, 200, 0.762,1.0min
+4, 0.025, 200, 0.752,1.1min
+4, 0.025, 200, 0.761,1.0min
+4, 0.025, 200, 0.755,1.0min
+4, 0.025, 200, 0.753,1.1min
+4, 0.025, 225, 0.753,1.1min
+4, 0.025, 225, 0.762,1.1min
+4, 0.025, 225, 0.752,1.2min
+4, 0.025, 225, 0.754,1.1min
+4, 0.025, 225, 0.762,1.2min
+4, 0.025, 225, 0.754,1.2min
+4, 0.03, 175, 0.751, 57.9s
+4, 0.03, 175, 0.761, 54.1s
+4, 0.03, 175, 0.754, 59.4s
+4, 0.03, 175, 0.759, 59.9s
+4, 0.03, 175, 0.751,1.0min
+4, 0.03, 175, 0.752, 54.5s
+4, 0.03, 200, 0.754, 59.5s
+4, 0.03, 200, 0.755,1.1min
+4, 0.03, 200, 0.761,1.1min
+4, 0.03, 200, 0.759,1.1min
+4, 0.03, 200, 0.756,1.0min
+4, 0.03, 200, 0.753,1.1min
+4, 0.03, 225, 0.752,1.1min
+4, 0.03, 225, 0.753,1.2min
+4, 0.03, 225, 0.762,1.3min
+4, 0.035, 175, 0.753, 54.5s
+4, 0.03, 225, 0.759,1.2min
+4, 0.035, 175, 0.752, 55.0s
+4, 0.03, 225, 0.757,1.2min
+4, 0.03, 225, 0.755,1.3min
+4, 0.035, 175, 0.763, 59.0s
+4, 0.035, 175, 0.758, 57.8s
+4, 0.035, 175, 0.755, 58.7s
+4, 0.035, 175, 0.754, 55.9s
+4, 0.035, 200, 0.752,1.0min
+4, 0.035, 200, 0.751,1.2min
+4, 0.035, 200, 0.759,1.1min
+4, 0.035, 200, 0.764,1.1min
+4, 0.035, 200, 0.755,1.1min
+4, 0.035, 200, 0.753,1.1min
+4, 0.035, 225, 0.750,1.1min
+4, 0.035, 225, 0.753,1.1min
+4, 0.035, 225, 0.758,1.1min
+4, 0.035, 225, 0.753,1.1min
+4, 0.035, 225, 0.765,1.1min
+4, 0.035, 225, 0.754,1.1min
+5, 0.025, 175, 0.750, 58.4s
+5, 0.025, 175, 0.750, 59.6s
+5, 0.025, 175, 0.761, 59.2s
+5, 0.025, 175, 0.760, 59.4s
+5, 0.025, 175, 0.755, 57.1s
+5, 0.025, 175, 0.753, 58.9s
+5, 0.025, 200, 0.748,1.1min
+5, 0.025, 200, 0.747,1.1min
+5, 0.025, 200, 0.762,1.1min
+5, 0.025, 200, 0.753,1.1min
+5, 0.025, 200, 0.752,1.1min
+5, 0.025, 200, 0.760,1.1min
+5, 0.025, 225, 0.745,1.3min
+5, 0.025, 225, 0.746,1.2min
+5, 0.03, 175, 0.749, 58.2s
+5, 0.025, 225, 0.751,1.2min
+5, 0.025, 225, 0.759,1.2min
+5, 0.03, 175, 0.750, 56.8s
+5, 0.025, 225, 0.763,1.3min
+5, 0.025, 225, 0.750,1.3min
+5, 0.03, 175, 0.763, 57.5s
+5, 0.03, 175, 0.762, 58.4s
+5, 0.03, 175, 0.752, 58.8s
+5, 0.03, 175, 0.750, 58.0s
+5, 0.03, 200, 0.750,1.1min
+5, 0.03, 200, 0.747,1.1min
+5, 0.03, 200, 0.761,1.1min
+5, 0.03, 200, 0.760,1.1min
+5, 0.03, 200, 0.751,1.1min
+5, 0.03, 200, 0.750,1.1min
+5, 0.03, 225, 0.746,1.3min
+5, 0.03, 225, 0.749,1.2min
+5, 0.03, 225, 0.758,1.2min
+5, 0.03, 225, 0.748,1.2min
+5, 0.03, 225, 0.761,1.2min
+5, 0.03, 225, 0.751,1.2min
+5, 0.035, 175, 0.749, 58.2s
+5, 0.035, 175, 0.748,1.0min
+5, 0.035, 175, 0.758, 57.3s
+5, 0.035, 175, 0.754, 57.2s
+5, 0.035, 175, 0.759, 59.5s
+5, 0.035, 175, 0.750,1.0min
+5, 0.035, 200, 0.748,1.1min
+5, 0.035, 200, 0.749,1.1min
+5, 0.035, 200, 0.751,1.1min
+5, 0.035, 200, 0.757,1.1min
+5, 0.035, 200, 0.756,1.2min
+5, 0.035, 200, 0.751,1.2min
+5, 0.035, 225, 0.748,1.1min
+5, 0.035, 225, 0.746,1.0min
+5, 0.035, 225, 0.759,1.0min
+5, 0.035, 225, 0.755,1.1min
+5, 0.035, 225, 0.750,1.0min
+5, 0.035, 225, 0.748, 58.2s
+[CV 1/30] END base_estimator__max_depth=3, 0.025, 175, 0.748, 36.6s
+[CV 3/30] END base_estimator__max_depth=3, 0.025, 175, 0.738, 36.6s
+[CV 5/30] END base_estimator__max_depth=3, 0.025, 175, 0.767, 36.7s
+[CV 2/30] END base_estimator__max_depth=3, 0.025, 175, 0.735, 36.8s
+[CV 4/30] END base_estimator__max_depth=3, 0.025, 175, 0.735, 37.2s
+[CV 8/30] END base_estimator__max_depth=3, 0.025, 175, 0.746, 36.0s
+[CV 9/30] END base_estimator__max_depth=3, 0.025, 175, 0.743, 36.0s
+[CV 6/30] END base_estimator__max_depth=3, 0.025, 175, 0.717, 36.3s
+[CV 7/30] END base_estimator__max_depth=3, 0.025, 175, 0.738, 36.3s
+[CV 10/30] END base_estimator__max_depth=3, 0.025, 175, 0.729, 35.9s
+[CV 11/30] END base_estimator__max_depth=3, 0.025, 175, 0.751, 34.3s
+[CV 12/30] END base_estimator__max_depth=3, 0.025, 175, 0.730, 34.3s
+[CV 14/30] END base_estimator__max_depth=3, 0.025, 175, 0.745, 34.2s
+[CV 13/30] END base_estimator__max_depth=3, 0.025, 175, 0.742, 34.2s
+[CV 15/30] END base_estimator__max_depth=3, 0.025, 175, 0.742, 34.3s
+[CV 16/30] END base_estimator__max_depth=3, 0.025, 175, 0.736, 39.4s
+[CV 17/30] END base_estimator__max_depth=3, 0.025, 175, 0.739, 39.3s
+[CV 18/30] END base_estimator__max_depth=3, 0.025, 175, 0.729, 40.1s
+[CV 19/30] END base_estimator__max_depth=3, 0.025, 175, 0.737, 40.1s
+[CV 20/30] END base_estimator__max_depth=3, 0.025, 175, 0.747, 40.1s
+[CV 21/30] END base_estimator__max_depth=3, 0.025, 175, 0.743, 38.4s
+[CV 22/30] END base_estimator__max_depth=3, 0.025, 175, 0.727, 38.3s
+[CV 24/30] END base_estimator__max_depth=3, 0.025, 175, 0.764, 38.0s
+[CV 23/30] END base_estimator__max_depth=3, 0.025, 175, 0.759, 38.2s
+[CV 25/30] END base_estimator__max_depth=3, 0.025, 175, 0.727, 38.1s
+[CV 27/30] END base_estimator__max_depth=3, 0.025, 175, 0.755, 36.9s
+[CV 26/30] END base_estimator__max_depth=3, 0.025, 175, 0.760, 37.3s
+[CV 28/30] END base_estimator__max_depth=3, 0.025, 175, 0.717, 37.0s
+[CV 29/30] END base_estimator__max_depth=3, 0.025, 175, 0.724, 37.1s
+[CV 30/30] END base_estimator__max_depth=3, 0.025, 175, 0.732, 37.4s
+[CV 1/30] END base_estimator__max_depth=3, 0.025, 200, 0.748, 43.5s
+[CV 3/30] END base_estimator__max_depth=3, 0.025, 200, 0.743, 43.6s
+[CV 2/30] END base_estimator__max_depth=3, 0.025, 200, 0.738, 43.9s
+[CV 4/30] END base_estimator__max_depth=3, 0.025, 200, 0.737, 43.7s
+[CV 5/30] END base_estimator__max_depth=3, 0.025, 200, 0.769, 43.4s
+[CV 6/30] END base_estimator__max_depth=3, 0.025, 200, 0.716, 44.8s
+[CV 8/30] END base_estimator__max_depth=3, 0.025, 200, 0.744, 44.7s
+[CV 7/30] END base_estimator__max_depth=3, 0.025, 200, 0.745, 44.8s
+[CV 9/30] END base_estimator__max_depth=3, 0.025, 200, 0.761, 44.6s
+[CV 10/30] END base_estimator__max_depth=3, 0.025, 200, 0.738, 45.5s
+[CV 11/30] END base_estimator__max_depth=3, 0.025, 200, 0.752, 44.0s
+[CV 12/30] END base_estimator__max_depth=3, 0.025, 200, 0.731, 44.0s
+[CV 14/30] END base_estimator__max_depth=3, 0.025, 200, 0.747, 44.1s
+[CV 13/30] END base_estimator__max_depth=3, 0.025, 200, 0.749, 44.3s
+[CV 15/30] END base_estimator__max_depth=3, 0.025, 200, 0.746, 43.8s
+[CV 16/30] END base_estimator__max_depth=3, 0.025, 200, 0.739, 36.9s
+[CV 19/30] END base_estimator__max_depth=3, 0.025, 200, 0.740, 36.6s
+[CV 17/30] END base_estimator__max_depth=3, 0.025, 200, 0.736, 37.1s
+[CV 18/30] END base_estimator__max_depth=3, 0.025, 200, 0.728, 37.0s
+[CV 20/30] END base_estimator__max_depth=3, 0.025, 200, 0.747, 36.8s
+[CV 21/30] END base_estimator__max_depth=3, 0.025, 200, 0.745, 35.9s
+[CV 22/30] END base_estimator__max_depth=3, 0.025, 200, 0.728, 35.7s
+[CV 23/30] END base_estimator__max_depth=3, 0.025, 200, 0.764, 35.8s
+[CV 24/30] END base_estimator__max_depth=3, 0.025, 200, 0.766, 35.8s
+[CV 25/30] END base_estimator__max_depth=3, 0.025, 200, 0.732, 36.0s
+[CV 27/30] END base_estimator__max_depth=3, 0.025, 200, 0.750, 35.7s
+[CV 26/30] END base_estimator__max_depth=3, 0.025, 200, 0.768, 36.3s
+[CV 28/30] END base_estimator__max_depth=3, 0.025, 200, 0.718, 36.3s
+[CV 29/30] END base_estimator__max_depth=3, 0.025, 200, 0.725, 36.0s
+[CV 30/30] END base_estimator__max_depth=3, 0.025, 200, 0.736, 36.2s
+[CV 2/30] END base_estimator__max_depth=3, 0.025, 225, 0.744, 47.6s
+[CV 4/30] END base_estimator__max_depth=3, 0.025, 225, 0.745, 47.1s
+[CV 1/30] END base_estimator__max_depth=3, 0.025, 225, 0.760, 47.9s
+[CV 3/30] END base_estimator__max_depth=3, 0.025, 225, 0.744, 47.7s
+[CV 5/30] END base_estimator__max_depth=3, 0.025, 225, 0.771, 47.8s
+[CV 7/30] END base_estimator__max_depth=3, 0.025, 225, 0.746,1.0min
+[CV 6/30] END base_estimator__max_depth=3, 0.025, 225, 0.720,1.0min
+[CV 8/30] END base_estimator__max_depth=3, 0.025, 225, 0.757,1.0min
+[CV 9/30] END base_estimator__max_depth=3, 0.025, 225, 0.765,1.0min
+[CV 10/30] END base_estimator__max_depth=3, 0.025, 225, 0.737,1.0min
+[CV 11/30] END base_estimator__max_depth=3, 0.025, 225, 0.755,1.5min
+[CV 13/30] END base_estimator__max_depth=3, 0.025, 225, 0.751,1.5min
+[CV 12/30] END base_estimator__max_depth=3, 0.025, 225, 0.732,1.5min
+[CV 15/30] END base_estimator__max_depth=3, 0.025, 225, 0.752,1.5min
+[CV 14/30] END base_estimator__max_depth=3, 0.025, 225, 0.754,1.5min
+[CV 16/30] END base_estimator__max_depth=3, 0.025, 225, 0.739, 53.5s
+[CV 17/30] END base_estimator__max_depth=3, 0.025, 225, 0.735, 53.4s
+[CV 18/30] END base_estimator__max_depth=3, 0.025, 225, 0.729, 53.5s
+[CV 19/30] END base_estimator__max_depth=3, 0.025, 225, 0.740, 53.4s
+[CV 20/30] END base_estimator__max_depth=3, 0.025, 225, 0.747, 53.6s
+[CV 23/30] END base_estimator__max_depth=3, 0.025, 225, 0.761, 50.6s
+[CV 21/30] END base_estimator__max_depth=3, 0.025, 225, 0.746, 51.2s
+[CV 22/30] END base_estimator__max_depth=3, 0.025, 225, 0.733, 51.5s
+[CV 24/30] END base_estimator__max_depth=3, 0.025, 225, 0.780, 51.4s
+[CV 25/30] END base_estimator__max_depth=3, 0.025, 225, 0.736, 51.2s
+[CV 26/30] END base_estimator__max_depth=3, 0.025, 225, 0.768, 51.4s
+[CV 27/30] END base_estimator__max_depth=3, 0.025, 225, 0.749, 51.3s
+[CV 28/30] END base_estimator__max_depth=3, 0.025, 225, 0.720, 51.4s
+[CV 29/30] END base_estimator__max_depth=3, 0.025, 225, 0.724, 51.5s
+[CV 30/30] END base_estimator__max_depth=3, 0.025, 225, 0.737, 51.3s
+[CV 1/30] END base_estimator__max_depth=3, 0.03, 175, 0.754, 41.0s
+[CV 2/30] END base_estimator__max_depth=3, 0.03, 175, 0.738, 41.0s
+[CV 3/30] END base_estimator__max_depth=3, 0.03, 175, 0.742, 40.8s
+[CV 4/30] END base_estimator__max_depth=3, 0.03, 175, 0.737, 40.5s
+[CV 5/30] END base_estimator__max_depth=3, 0.03, 175, 0.767, 41.3s
+[CV 6/30] END base_estimator__max_depth=3, 0.03, 175, 0.728, 40.6s
+[CV 7/30] END base_estimator__max_depth=3, 0.03, 175, 0.742, 40.5s
+[CV 8/30] END base_estimator__max_depth=3, 0.03, 175, 0.743, 40.4s
+[CV 9/30] END base_estimator__max_depth=3, 0.03, 175, 0.765, 41.0s
+[CV 10/30] END base_estimator__max_depth=3, 0.03, 175, 0.730, 40.6s
+[CV 11/30] END base_estimator__max_depth=3, 0.03, 175, 0.752, 41.5s
+[CV 12/30] END base_estimator__max_depth=3, 0.03, 175, 0.732, 42.0s
+[CV 13/30] END base_estimator__max_depth=3, 0.03, 175, 0.759, 41.9s
+[CV 14/30] END base_estimator__max_depth=3, 0.03, 175, 0.751, 42.1s
+[CV 15/30] END base_estimator__max_depth=3, 0.03, 175, 0.753, 41.9s
+[CV 16/30] END base_estimator__max_depth=3, 0.03, 175, 0.736, 38.2s
+[CV 17/30] END base_estimator__max_depth=3, 0.03, 175, 0.729, 38.5s
+[CV 18/30] END base_estimator__max_depth=3, 0.03, 175, 0.739, 38.7s
+[CV 19/30] END base_estimator__max_depth=3, 0.03, 175, 0.739, 38.8s
+[CV 20/30] END base_estimator__max_depth=3, 0.03, 175, 0.748, 38.9s
+[CV 21/30] END base_estimator__max_depth=3, 0.03, 175, 0.746, 38.1s
+[CV 22/30] END base_estimator__max_depth=3, 0.03, 175, 0.739, 37.8s
+[CV 23/30] END base_estimator__max_depth=3, 0.03, 175, 0.762, 37.9s
+[CV 24/30] END base_estimator__max_depth=3, 0.03, 175, 0.768, 37.8s
+[CV 25/30] END base_estimator__max_depth=3, 0.03, 175, 0.731, 37.6s
+[CV 26/30] END base_estimator__max_depth=3, 0.03, 175, 0.761, 48.1s
+[CV 27/30] END base_estimator__max_depth=3, 0.03, 175, 0.747, 48.5s
+[CV 28/30] END base_estimator__max_depth=3, 0.03, 175, 0.724, 48.3s
+[CV 29/30] END base_estimator__max_depth=3, 0.03, 175, 0.723, 49.4s
+[CV 30/30] END base_estimator__max_depth=3, 0.03, 175, 0.739, 49.4s
+[CV 1/30] END base_estimator__max_depth=3, 0.03, 200, 0.763, 57.4s
+[CV 3/30] END base_estimator__max_depth=3, 0.03, 200, 0.746, 57.6s
+[CV 2/30] END base_estimator__max_depth=3, 0.03, 200, 0.742, 57.7s
+[CV 4/30] END base_estimator__max_depth=3, 0.03, 200, 0.735, 57.5s
+[CV 5/30] END base_estimator__max_depth=3, 0.03, 200, 0.766, 57.6s
+[CV 6/30] END base_estimator__max_depth=3, 0.03, 200, 0.738, 57.6s
+[CV 8/30] END base_estimator__max_depth=3, 0.03, 200, 0.744, 57.5s
+[CV 7/30] END base_estimator__max_depth=3, 0.03, 200, 0.744, 58.1s
+[CV 9/30] END base_estimator__max_depth=3, 0.03, 200, 0.770, 57.5s
+[CV 10/30] END base_estimator__max_depth=3, 0.03, 200, 0.732, 57.5s
+[CV 11/30] END base_estimator__max_depth=3, 0.03, 200, 0.758, 57.4s
+[CV 12/30] END base_estimator__max_depth=3, 0.03, 200, 0.732, 57.3s
+[CV 13/30] END base_estimator__max_depth=3, 0.03, 200, 0.762, 57.8s
+[CV 14/30] END base_estimator__max_depth=3, 0.03, 200, 0.751, 57.6s
+[CV 15/30] END base_estimator__max_depth=3, 0.03, 200, 0.758, 57.5s
+[CV 16/30] END base_estimator__max_depth=3, 0.03, 200, 0.734, 56.9s
+[CV 17/30] END base_estimator__max_depth=3, 0.03, 200, 0.735, 57.2s
+[CV 18/30] END base_estimator__max_depth=3, 0.03, 200, 0.741, 57.4s
+[CV 19/30] END base_estimator__max_depth=3, 0.03, 200, 0.740, 57.2s
+[CV 20/30] END base_estimator__max_depth=3, 0.03, 200, 0.755, 57.6s
+[CV 21/30] END base_estimator__max_depth=3, 0.03, 200, 0.743, 57.9s
+[CV 22/30] END base_estimator__max_depth=3, 0.03, 200, 0.739, 57.8s
+[CV 23/30] END base_estimator__max_depth=3, 0.03, 200, 0.764, 58.4s
+[CV 24/30] END base_estimator__max_depth=3, 0.03, 200, 0.772, 57.9s
+[CV 25/30] END base_estimator__max_depth=3, 0.03, 200, 0.731, 58.0s
+[CV 26/30] END base_estimator__max_depth=3, 0.03, 200, 0.757, 55.5s
+[CV 27/30] END base_estimator__max_depth=3, 0.03, 200, 0.761, 55.9s
+[CV 28/30] END base_estimator__max_depth=3, 0.03, 200, 0.725, 55.7s
+[CV 29/30] END base_estimator__max_depth=3, 0.03, 200, 0.733, 55.3s
+[CV 30/30] END base_estimator__max_depth=3, 0.03, 200, 0.738, 55.8s
+[CV 1/30] END base_estimator__max_depth=3, 0.03, 225, 0.766,1.1min
+[CV 2/30] END base_estimator__max_depth=3, 0.03, 225, 0.748,1.1min
+[CV 3/30] END base_estimator__max_depth=3, 0.03, 225, 0.747,1.1min
+[CV 4/30] END base_estimator__max_depth=3, 0.03, 225, 0.734,1.1min
+[CV 5/30] END base_estimator__max_depth=3, 0.03, 225, 0.775,1.1min
+[CV 6/30] END base_estimator__max_depth=3, 0.03, 225, 0.739,1.1min
+[CV 7/30] END base_estimator__max_depth=3, 0.03, 225, 0.747,1.1min
+[CV 8/30] END base_estimator__max_depth=3, 0.03, 225, 0.753,1.1min
+[CV 9/30] END base_estimator__max_depth=3, 0.03, 225, 0.774,1.1min
+[CV 10/30] END base_estimator__max_depth=3, 0.03, 225, 0.731,1.1min
+[CV 11/30] END base_estimator__max_depth=3, 0.03, 225, 0.772,1.1min
+[CV 12/30] END base_estimator__max_depth=3, 0.03, 225, 0.743,1.1min
+[CV 13/30] END base_estimator__max_depth=3, 0.03, 225, 0.768,1.1min
+[CV 14/30] END base_estimator__max_depth=3, 0.03, 225, 0.752,1.1min
+[CV 15/30] END base_estimator__max_depth=3, 0.03, 225, 0.765,1.1min
+[CV 16/30] END base_estimator__max_depth=3, 0.03, 225, 0.731,2.1min
+[CV 17/30] END base_estimator__max_depth=3, 0.03, 225, 0.735,2.1min
+[CV 18/30] END base_estimator__max_depth=3, 0.03, 225, 0.744,2.1min
+[CV 19/30] END base_estimator__max_depth=3, 0.03, 225, 0.741,2.1min
+[CV 20/30] END base_estimator__max_depth=3, 0.03, 225, 0.762,2.1min
+[CV 21/30] END base_estimator__max_depth=3, 0.03, 225, 0.744,1.1min
+[CV 22/30] END base_estimator__max_depth=3, 0.03, 225, 0.749,1.1min
+[CV 23/30] END base_estimator__max_depth=3, 0.03, 225, 0.768,1.1min
+[CV 24/30] END base_estimator__max_depth=3, 0.03, 225, 0.773,1.1min
+[CV 25/30] END base_estimator__max_depth=3, 0.03, 225, 0.747,1.1min
+[CV 26/30] END base_estimator__max_depth=3, 0.03, 225, 0.762,1.0min
+[CV 27/30] END base_estimator__max_depth=3, 0.03, 225, 0.761,1.0min
+[CV 28/30] END base_estimator__max_depth=3, 0.03, 225, 0.740,1.0min
+[CV 29/30] END base_estimator__max_depth=3, 0.03, 225, 0.740,1.0min
+[CV 30/30] END base_estimator__max_depth=3, 0.03, 225, 0.745,1.0min
+[CV 1/30] END base_estimator__max_depth=3, 0.035, 175, 0.764, 48.8s
+[CV 3/30] END base_estimator__max_depth=3, 0.035, 175, 0.746, 48.7s
+[CV 2/30] END base_estimator__max_depth=3, 0.035, 175, 0.741, 49.3s
+[CV 4/30] END base_estimator__max_depth=3, 0.035, 175, 0.734, 48.9s
+[CV 5/30] END base_estimator__max_depth=3, 0.035, 175, 0.766, 49.0s
+[CV 6/30] END base_estimator__max_depth=3, 0.035, 175, 0.729, 49.2s
+[CV 8/30] END base_estimator__max_depth=3, 0.035, 175, 0.746, 49.5s
+[CV 7/30] END base_estimator__max_depth=3, 0.035, 175, 0.735, 49.9s
+[CV 9/30] END base_estimator__max_depth=3, 0.035, 175, 0.763, 49.6s
+[CV 10/30] END base_estimator__max_depth=3, 0.035, 175, 0.739, 49.8s
+[CV 11/30] END base_estimator__max_depth=3, 0.035, 175, 0.755, 48.4s
+[CV 12/30] END base_estimator__max_depth=3, 0.035, 175, 0.747, 47.9s
+[CV 13/30] END base_estimator__max_depth=3, 0.035, 175, 0.761, 48.1s
+[CV 14/30] END base_estimator__max_depth=3, 0.035, 175, 0.765, 47.5s
+[CV 15/30] END base_estimator__max_depth=3, 0.035, 175, 0.763, 47.4s
+[CV 16/30] END base_estimator__max_depth=3, 0.035, 175, 0.733, 40.6s
+[CV 17/30] END base_estimator__max_depth=3, 0.035, 175, 0.730, 41.3s
+[CV 18/30] END base_estimator__max_depth=3, 0.035, 175, 0.742, 41.3s
+[CV 19/30] END base_estimator__max_depth=3, 0.035, 175, 0.734, 40.9s
+[CV 20/30] END base_estimator__max_depth=3, 0.035, 175, 0.755, 40.8s
+[CV 21/30] END base_estimator__max_depth=3, 0.035, 175, 0.742, 42.0s
+[CV 22/30] END base_estimator__max_depth=3, 0.035, 175, 0.737, 41.6s
+[CV 23/30] END base_estimator__max_depth=3, 0.035, 175, 0.770, 42.0s
+[CV 24/30] END base_estimator__max_depth=3, 0.035, 175, 0.786, 42.4s
+[CV 25/30] END base_estimator__max_depth=3, 0.035, 175, 0.747, 42.0s
+[CV 26/30] END base_estimator__max_depth=3, 0.035, 175, 0.759, 43.6s
+[CV 27/30] END base_estimator__max_depth=3, 0.035, 175, 0.765, 42.7s
+[CV 28/30] END base_estimator__max_depth=3, 0.035, 175, 0.734, 43.1s
+[CV 29/30] END base_estimator__max_depth=3, 0.035, 175, 0.728, 43.2s
+[CV 30/30] END base_estimator__max_depth=3, 0.035, 175, 0.749, 43.2s
+[CV 1/30] END base_estimator__max_depth=3, 0.035, 200, 0.762, 45.3s
+[CV 2/30] END base_estimator__max_depth=3, 0.035, 200, 0.749, 46.0s
+[CV 3/30] END base_estimator__max_depth=3, 0.035, 200, 0.750, 46.8s
+[CV 4/30] END base_estimator__max_depth=3, 0.035, 200, 0.743, 46.2s
+[CV 5/30] END base_estimator__max_depth=3, 0.035, 200, 0.768, 46.8s
+[CV 6/30] END base_estimator__max_depth=3, 0.035, 200, 0.733, 46.7s
+[CV 7/30] END base_estimator__max_depth=3, 0.035, 200, 0.736, 46.0s
+[CV 8/30] END base_estimator__max_depth=3, 0.035, 200, 0.746, 45.1s
+[CV 9/30] END base_estimator__max_depth=3, 0.035, 200, 0.770, 45.9s
+[CV 10/30] END base_estimator__max_depth=3, 0.035, 200, 0.744, 45.8s
+[CV 11/30] END base_estimator__max_depth=3, 0.035, 200, 0.766, 44.0s
+[CV 12/30] END base_estimator__max_depth=3, 0.035, 200, 0.749, 43.2s
+[CV 13/30] END base_estimator__max_depth=3, 0.035, 200, 0.764, 43.7s
+[CV 14/30] END base_estimator__max_depth=3, 0.035, 200, 0.765, 44.0s
+[CV 15/30] END base_estimator__max_depth=3, 0.035, 200, 0.764, 43.3s
+[CV 16/30] END base_estimator__max_depth=3, 0.035, 200, 0.745, 41.2s
+[CV 17/30] END base_estimator__max_depth=3, 0.035, 200, 0.735, 41.2s
+[CV 18/30] END base_estimator__max_depth=3, 0.035, 200, 0.744, 41.5s
+[CV 19/30] END base_estimator__max_depth=3, 0.035, 200, 0.739, 41.4s
+[CV 20/30] END base_estimator__max_depth=3, 0.035, 200, 0.755, 41.4s
+[CV 21/30] END base_estimator__max_depth=3, 0.035, 200, 0.746, 41.4s
+[CV 22/30] END base_estimator__max_depth=3, 0.035, 200, 0.746, 41.3s
+[CV 23/30] END base_estimator__max_depth=3, 0.035, 200, 0.769, 40.8s
+[CV 24/30] END base_estimator__max_depth=3, 0.035, 200, 0.783, 41.6s
+[CV 25/30] END base_estimator__max_depth=3, 0.035, 200, 0.750, 41.6s
+[CV 26/30] END base_estimator__max_depth=3, 0.035, 200, 0.767, 45.8s
+[CV 27/30] END base_estimator__max_depth=3, 0.035, 200, 0.763, 46.3s
+[CV 28/30] END base_estimator__max_depth=3, 0.035, 200, 0.737, 46.3s
+[CV 29/30] END base_estimator__max_depth=3, 0.035, 200, 0.742, 46.5s
+[CV 30/30] END base_estimator__max_depth=3, 0.035, 200, 0.749, 46.3s
+[CV 1/30] END base_estimator__max_depth=3, 0.035, 225, 0.759, 49.7s
+[CV 2/30] END base_estimator__max_depth=3, 0.035, 225, 0.750, 50.3s
+[CV 3/30] END base_estimator__max_depth=3, 0.035, 225, 0.753, 50.4s
+[CV 4/30] END base_estimator__max_depth=3, 0.035, 225, 0.747, 51.1s
+[CV 5/30] END base_estimator__max_depth=3, 0.035, 225, 0.770, 51.0s
+[CV 6/30] END base_estimator__max_depth=3, 0.035, 225, 0.737, 55.2s
+[CV 7/30] END base_estimator__max_depth=3, 0.035, 225, 0.744, 55.1s
+[CV 8/30] END base_estimator__max_depth=3, 0.035, 225, 0.749, 54.4s
+[CV 10/30] END base_estimator__max_depth=3, 0.035, 225, 0.743, 53.8s
+[CV 9/30] END base_estimator__max_depth=3, 0.035, 225, 0.772, 54.1s
+[CV 11/30] END base_estimator__max_depth=3, 0.035, 225, 0.777, 54.8s
+[CV 12/30] END base_estimator__max_depth=3, 0.035, 225, 0.746, 55.7s
+[CV 13/30] END base_estimator__max_depth=3, 0.035, 225, 0.769, 56.0s
+[CV 15/30] END base_estimator__max_depth=3, 0.035, 225, 0.767, 56.3s
+[CV 14/30] END base_estimator__max_depth=3, 0.035, 225, 0.767, 57.1s
+[CV 16/30] END base_estimator__max_depth=3, 0.035, 225, 0.740,1.0min
+[CV 17/30] END base_estimator__max_depth=3, 0.035, 225, 0.734,1.0min
+[CV 18/30] END base_estimator__max_depth=3, 0.035, 225, 0.746,1.0min
+[CV 19/30] END base_estimator__max_depth=3, 0.035, 225, 0.741,1.0min
+[CV 20/30] END base_estimator__max_depth=3, 0.035, 225, 0.758,1.0min
+[CV 21/30] END base_estimator__max_depth=3, 0.035, 225, 0.755, 51.4s
+[CV 22/30] END base_estimator__max_depth=3, 0.035, 225, 0.748, 51.9s
+[CV 23/30] END base_estimator__max_depth=3, 0.035, 225, 0.771, 51.4s
+[CV 24/30] END base_estimator__max_depth=3, 0.035, 225, 0.784, 52.0s
+[CV 25/30] END base_estimator__max_depth=3, 0.035, 225, 0.750, 52.3s
+[CV 26/30] END base_estimator__max_depth=3, 0.035, 225, 0.771, 56.7s
+[CV 27/30] END base_estimator__max_depth=3, 0.035, 225, 0.767, 56.7s
+[CV 28/30] END base_estimator__max_depth=3, 0.035, 225, 0.739, 56.6s
+[CV 29/30] END base_estimator__max_depth=3, 0.035, 225, 0.741, 56.7s
+[CV 30/30] END base_estimator__max_depth=3, 0.035, 225, 0.745, 56.0s
+[CV 1/30] END base_estimator__max_depth=4, 0.025, 175, 0.760,1.1min
+[CV 2/30] END base_estimator__max_depth=4, 0.025, 175, 0.752,1.1min
+[CV 3/30] END base_estimator__max_depth=4, 0.025, 175, 0.754,1.1min
+[CV 4/30] END base_estimator__max_depth=4, 0.025, 175, 0.743,1.1min
+[CV 5/30] END base_estimator__max_depth=4, 0.025, 175, 0.778,1.1min
+[CV 6/30] END base_estimator__max_depth=4, 0.025, 175, 0.740,1.1min
+[CV 7/30] END base_estimator__max_depth=4, 0.025, 175, 0.752,1.1min
+[CV 8/30] END base_estimator__max_depth=4, 0.025, 175, 0.767,1.1min
+[CV 9/30] END base_estimator__max_depth=4, 0.025, 175, 0.768,1.1min
+[CV 10/30] END base_estimator__max_depth=4, 0.025, 175, 0.743,1.1min
+[CV 11/30] END base_estimator__max_depth=4, 0.025, 175, 0.769,1.1min
+[CV 12/30] END base_estimator__max_depth=4, 0.025, 175, 0.747,1.1min
+[CV 13/30] END base_estimator__max_depth=4, 0.025, 175, 0.770,1.1min
+[CV 14/30] END base_estimator__max_depth=4, 0.025, 175, 0.765,1.1min
+[CV 15/30] END base_estimator__max_depth=4, 0.025, 175, 0.764,1.1min
+[CV 16/30] END base_estimator__max_depth=4, 0.025, 175, 0.749, 54.1s
+[CV 17/30] END base_estimator__max_depth=4, 0.025, 175, 0.739, 53.7s
+[CV 18/30] END base_estimator__max_depth=4, 0.025, 175, 0.745, 53.7s
+[CV 19/30] END base_estimator__max_depth=4, 0.025, 175, 0.745, 52.2s
+[CV 20/30] END base_estimator__max_depth=4, 0.025, 175, 0.758, 52.3s
+[CV 21/30] END base_estimator__max_depth=4, 0.025, 175, 0.754, 50.2s
+[CV 22/30] END base_estimator__max_depth=4, 0.025, 175, 0.746, 50.1s
+[CV 23/30] END base_estimator__max_depth=4, 0.025, 175, 0.772, 50.4s
+[CV 24/30] END base_estimator__max_depth=4, 0.025, 175, 0.779, 50.7s
+[CV 25/30] END base_estimator__max_depth=4, 0.025, 175, 0.753, 50.1s
+[CV 26/30] END base_estimator__max_depth=4, 0.025, 175, 0.769, 51.3s
+[CV 27/30] END base_estimator__max_depth=4, 0.025, 175, 0.767, 51.4s
+[CV 28/30] END base_estimator__max_depth=4, 0.025, 175, 0.736, 51.1s
+[CV 29/30] END base_estimator__max_depth=4, 0.025, 175, 0.743, 51.0s
+[CV 30/30] END base_estimator__max_depth=4, 0.025, 175, 0.749, 51.0s
+[CV 1/30] END base_estimator__max_depth=4, 0.025, 200, 0.759,1.0min
+[CV 2/30] END base_estimator__max_depth=4, 0.025, 200, 0.756, 59.4s
+[CV 3/30] END base_estimator__max_depth=4, 0.025, 200, 0.753, 59.4s
+[CV 4/30] END base_estimator__max_depth=4, 0.025, 200, 0.746, 59.3s
+[CV 5/30] END base_estimator__max_depth=4, 0.025, 200, 0.781, 59.6s
+[CV 6/30] END base_estimator__max_depth=4, 0.025, 200, 0.744, 51.8s
+[CV 7/30] END base_estimator__max_depth=4, 0.025, 200, 0.756, 51.8s
+[CV 8/30] END base_estimator__max_depth=4, 0.025, 200, 0.766, 51.3s
+[CV 9/30] END base_estimator__max_depth=4, 0.025, 200, 0.772, 51.6s
+[CV 10/30] END base_estimator__max_depth=4, 0.025, 200, 0.742, 51.4s
+[CV 11/30] END base_estimator__max_depth=4, 0.025, 200, 0.781, 49.4s
+[CV 12/30] END base_estimator__max_depth=4, 0.025, 200, 0.749, 49.2s
+[CV 13/30] END base_estimator__max_depth=4, 0.025, 200, 0.769, 49.3s
+[CV 14/30] END base_estimator__max_depth=4, 0.025, 200, 0.768, 49.2s
+[CV 15/30] END base_estimator__max_depth=4, 0.025, 200, 0.767, 49.1s
+[CV 16/30] END base_estimator__max_depth=4, 0.025, 200, 0.743, 48.8s
+[CV 17/30] END base_estimator__max_depth=4, 0.025, 200, 0.742, 48.9s
+[CV 18/30] END base_estimator__max_depth=4, 0.025, 200, 0.753, 49.0s
+[CV 20/30] END base_estimator__max_depth=4, 0.025, 200, 0.765, 49.2s
+[CV 19/30] END base_estimator__max_depth=4, 0.025, 200, 0.743, 49.3s
+[CV 21/30] END base_estimator__max_depth=4, 0.025, 200, 0.757, 54.1s
+[CV 22/30] END base_estimator__max_depth=4, 0.025, 200, 0.750, 54.9s
+[CV 23/30] END base_estimator__max_depth=4, 0.025, 200, 0.776, 54.3s
+[CV 25/30] END base_estimator__max_depth=4, 0.025, 200, 0.752, 54.3s
+[CV 24/30] END base_estimator__max_depth=4, 0.025, 200, 0.781, 55.2s
+[CV 26/30] END base_estimator__max_depth=4, 0.025, 200, 0.770,1.1min
+[CV 28/30] END base_estimator__max_depth=4, 0.025, 200, 0.737,1.1min
+[CV 27/30] END base_estimator__max_depth=4, 0.025, 200, 0.767,1.1min
+[CV 29/30] END base_estimator__max_depth=4, 0.025, 200, 0.748,1.1min
+[CV 30/30] END base_estimator__max_depth=4, 0.025, 200, 0.745,1.1min
+[CV 1/30] END base_estimator__max_depth=4, 0.025, 225, 0.759,1.1min
+[CV 3/30] END base_estimator__max_depth=4, 0.025, 225, 0.755,1.1min
+[CV 2/30] END base_estimator__max_depth=4, 0.025, 225, 0.753,1.1min
+[CV 4/30] END base_estimator__max_depth=4, 0.025, 225, 0.747,1.1min
+[CV 5/30] END base_estimator__max_depth=4, 0.025, 225, 0.781,1.1min
+[CV 6/30] END base_estimator__max_depth=4, 0.025, 225, 0.746,1.0min
+[CV 8/30] END base_estimator__max_depth=4, 0.025, 225, 0.769,1.0min
+[CV 7/30] END base_estimator__max_depth=4, 0.025, 225, 0.757,1.0min
+[CV 9/30] END base_estimator__max_depth=4, 0.025, 225, 0.771,1.0min
+[CV 10/30] END base_estimator__max_depth=4, 0.025, 225, 0.747,1.0min
+[CV 11/30] END base_estimator__max_depth=4, 0.025, 225, 0.778,1.0min
+[CV 12/30] END base_estimator__max_depth=4, 0.025, 225, 0.745,1.0min
+[CV 13/30] END base_estimator__max_depth=4, 0.025, 225, 0.769,1.0min
+[CV 14/30] END base_estimator__max_depth=4, 0.025, 225, 0.770,1.0min
+[CV 15/30] END base_estimator__max_depth=4, 0.025, 225, 0.772,1.0min
+[CV 16/30] END base_estimator__max_depth=4, 0.025, 225, 0.746, 55.3s
+[CV 17/30] END base_estimator__max_depth=4, 0.025, 225, 0.742, 56.4s
+[CV 18/30] END base_estimator__max_depth=4, 0.025, 225, 0.752, 56.8s
+[CV 19/30] END base_estimator__max_depth=4, 0.025, 225, 0.745, 57.3s
+[CV 20/30] END base_estimator__max_depth=4, 0.025, 225, 0.765, 58.9s
+[CV 21/30] END base_estimator__max_depth=4, 0.025, 225, 0.758, 58.6s
+[CV 22/30] END base_estimator__max_depth=4, 0.025, 225, 0.752, 56.2s
+[CV 23/30] END base_estimator__max_depth=4, 0.025, 225, 0.773, 55.8s
+[CV 24/30] END base_estimator__max_depth=4, 0.025, 225, 0.783, 54.3s
+[CV 25/30] END base_estimator__max_depth=4, 0.025, 225, 0.749, 52.6s
+[CV 26/30] END base_estimator__max_depth=4, 0.025, 225, 0.774, 40.2s
+[CV 28/30] END base_estimator__max_depth=4, 0.025, 225, 0.737, 39.8s
+[CV 27/30] END base_estimator__max_depth=4, 0.025, 225, 0.772, 40.2s
+[CV 29/30] END base_estimator__max_depth=4, 0.025, 225, 0.752, 40.7s
+[CV 30/30] END base_estimator__max_depth=4, 0.025, 225, 0.744, 40.1s
+[CV 1/30] END base_estimator__max_depth=4, 0.03, 175, 0.759, 34.6s
+[CV 3/30] END base_estimator__max_depth=4, 0.03, 175, 0.753, 34.2s
+[CV 2/30] END base_estimator__max_depth=4, 0.03, 175, 0.752, 34.7s
+[CV 4/30] END base_estimator__max_depth=4, 0.03, 175, 0.750, 34.4s
+[CV 5/30] END base_estimator__max_depth=4, 0.03, 175, 0.783, 34.4s
+[CV 6/30] END base_estimator__max_depth=4, 0.03, 175, 0.744, 30.3s
+[CV 7/30] END base_estimator__max_depth=4, 0.03, 175, 0.758, 30.1s
+[CV 8/30] END base_estimator__max_depth=4, 0.03, 175, 0.769, 30.0s
+[CV 9/30] END base_estimator__max_depth=4, 0.03, 175, 0.775, 29.9s
+[CV 10/30] END base_estimator__max_depth=4, 0.03, 175, 0.745, 29.9s
+[CV 11/30] END base_estimator__max_depth=4, 0.03, 175, 0.781, 33.3s
+[CV 12/30] END base_estimator__max_depth=4, 0.03, 175, 0.749, 33.6s
+[CV 13/30] END base_estimator__max_depth=4, 0.03, 175, 0.774, 33.6s
+[CV 14/30] END base_estimator__max_depth=4, 0.03, 175, 0.766, 33.8s
+[CV 15/30] END base_estimator__max_depth=4, 0.03, 175, 0.774, 34.0s
+[CV 16/30] END base_estimator__max_depth=4, 0.03, 175, 0.743, 35.1s
+[CV 18/30] END base_estimator__max_depth=4, 0.03, 175, 0.746, 34.9s
+[CV 17/30] END base_estimator__max_depth=4, 0.03, 175, 0.748, 35.2s
+[CV 20/30] END base_estimator__max_depth=4, 0.03, 175, 0.767, 35.1s
+[CV 19/30] END base_estimator__max_depth=4, 0.03, 175, 0.745, 35.7s
+[CV 21/30] END base_estimator__max_depth=4, 0.03, 175, 0.759, 35.2s
+[CV 23/30] END base_estimator__max_depth=4, 0.03, 175, 0.773, 34.5s
+[CV 22/30] END base_estimator__max_depth=4, 0.03, 175, 0.752, 34.8s
+[CV 24/30] END base_estimator__max_depth=4, 0.03, 175, 0.790, 35.0s
+[CV 25/30] END base_estimator__max_depth=4, 0.03, 175, 0.752, 34.9s
+[CV 26/30] END base_estimator__max_depth=4, 0.03, 175, 0.768, 35.7s
+[CV 27/30] END base_estimator__max_depth=4, 0.03, 175, 0.764, 34.8s
+[CV 28/30] END base_estimator__max_depth=4, 0.03, 175, 0.737, 34.8s
+[CV 30/30] END base_estimator__max_depth=4, 0.03, 175, 0.741, 34.6s
+[CV 29/30] END base_estimator__max_depth=4, 0.03, 175, 0.750, 34.9s
+[CV 1/30] END base_estimator__max_depth=4, 0.03, 200, 0.762, 37.5s
+[CV 3/30] END base_estimator__max_depth=4, 0.03, 200, 0.755, 37.1s
+[CV 2/30] END base_estimator__max_depth=4, 0.03, 200, 0.752, 37.5s
+[CV 5/30] END base_estimator__max_depth=4, 0.03, 200, 0.778, 37.3s
+[CV 4/30] END base_estimator__max_depth=4, 0.03, 200, 0.745, 37.4s
+[CV 6/30] END base_estimator__max_depth=4, 0.03, 200, 0.747, 39.4s
+[CV 8/30] END base_estimator__max_depth=4, 0.03, 200, 0.765, 38.8s
+[CV 7/30] END base_estimator__max_depth=4, 0.03, 200, 0.756, 39.2s
+[CV 9/30] END base_estimator__max_depth=4, 0.03, 200, 0.774, 38.7s
+[CV 10/30] END base_estimator__max_depth=4, 0.03, 200, 0.745, 39.0s
+[CV 11/30] END base_estimator__max_depth=4, 0.03, 200, 0.779, 39.4s
+[CV 12/30] END base_estimator__max_depth=4, 0.03, 200, 0.749, 39.5s
+[CV 13/30] END base_estimator__max_depth=4, 0.03, 200, 0.776, 39.5s
+[CV 15/30] END base_estimator__max_depth=4, 0.03, 200, 0.776, 39.3s
+[CV 14/30] END base_estimator__max_depth=4, 0.03, 200, 0.770, 39.8s
+[CV 16/30] END base_estimator__max_depth=4, 0.03, 200, 0.740, 39.1s
+[CV 17/30] END base_estimator__max_depth=4, 0.03, 200, 0.745, 39.2s
+[CV 18/30] END base_estimator__max_depth=4, 0.03, 200, 0.747, 39.5s
+[CV 19/30] END base_estimator__max_depth=4, 0.03, 200, 0.748, 38.8s
+[CV 20/30] END base_estimator__max_depth=4, 0.03, 200, 0.767, 39.0s
+[CV 22/30] END base_estimator__max_depth=4, 0.03, 200, 0.751, 38.6s
+[CV 21/30] END base_estimator__max_depth=4, 0.03, 200, 0.763, 38.9s
+[CV 23/30] END base_estimator__max_depth=4, 0.03, 200, 0.774, 39.0s
+[CV 24/30] END base_estimator__max_depth=4, 0.03, 200, 0.787, 38.7s
+[CV 25/30] END base_estimator__max_depth=4, 0.03, 200, 0.753, 38.5s
+[CV 27/30] END base_estimator__max_depth=4, 0.03, 200, 0.765, 34.8s
+[CV 26/30] END base_estimator__max_depth=4, 0.03, 200, 0.770, 35.1s
+[CV 28/30] END base_estimator__max_depth=4, 0.03, 200, 0.735, 35.1s
+[CV 29/30] END base_estimator__max_depth=4, 0.03, 200, 0.752, 34.6s
+[CV 30/30] END base_estimator__max_depth=4, 0.03, 200, 0.743, 35.1s
+[CV 1/30] END base_estimator__max_depth=4, 0.03, 225, 0.760, 44.7s
+[CV 3/30] END base_estimator__max_depth=4, 0.03, 225, 0.757, 44.5s
+[CV 2/30] END base_estimator__max_depth=4, 0.03, 225, 0.753, 45.6s
+[CV 4/30] END base_estimator__max_depth=4, 0.03, 225, 0.742, 45.2s
+[CV 5/30] END base_estimator__max_depth=4, 0.03, 225, 0.776, 45.5s
+[CV 6/30] END base_estimator__max_depth=4, 0.03, 225, 0.747, 43.4s
+[CV 7/30] END base_estimator__max_depth=4, 0.03, 225, 0.759, 44.1s
+[CV 8/30] END base_estimator__max_depth=4, 0.03, 225, 0.767, 44.1s
+[CV 9/30] END base_estimator__max_depth=4, 0.03, 225, 0.781, 43.8s
+[CV 10/30] END base_estimator__max_depth=4, 0.03, 225, 0.747, 44.1s
+[CV 11/30] END base_estimator__max_depth=4, 0.03, 225, 0.780, 46.4s
+[CV 12/30] END base_estimator__max_depth=4, 0.03, 225, 0.749, 46.3s
+[CV 13/30] END base_estimator__max_depth=4, 0.03, 225, 0.775, 46.6s
+[CV 14/30] END base_estimator__max_depth=4, 0.03, 225, 0.774, 46.2s
+[CV 15/30] END base_estimator__max_depth=4, 0.03, 225, 0.776, 46.2s
+[CV 16/30] END base_estimator__max_depth=4, 0.03, 225, 0.743, 39.9s
+[CV 18/30] END base_estimator__max_depth=4, 0.03, 225, 0.751, 39.4s
+[CV 17/30] END base_estimator__max_depth=4, 0.03, 225, 0.741, 40.4s
+[CV 19/30] END base_estimator__max_depth=4, 0.03, 225, 0.749, 39.6s
+[CV 20/30] END base_estimator__max_depth=4, 0.03, 225, 0.769, 39.4s
+[CV 21/30] END base_estimator__max_depth=4, 0.03, 225, 0.759, 39.2s
+[CV 22/30] END base_estimator__max_depth=4, 0.03, 225, 0.751, 39.0s
+[CV 23/30] END base_estimator__max_depth=4, 0.03, 225, 0.773, 39.2s
+[CV 24/30] END base_estimator__max_depth=4, 0.03, 225, 0.786, 39.2s
+[CV 25/30] END base_estimator__max_depth=4, 0.03, 225, 0.755, 38.8s
+[CV 26/30] END base_estimator__max_depth=4, 0.03, 225, 0.771, 39.2s
+[CV 27/30] END base_estimator__max_depth=4, 0.03, 225, 0.761, 39.8s
+[CV 28/30] END base_estimator__max_depth=4, 0.03, 225, 0.738, 39.6s
+[CV 29/30] END base_estimator__max_depth=4, 0.03, 225, 0.748, 39.5s
+[CV 30/30] END base_estimator__max_depth=4, 0.03, 225, 0.747, 39.6s
+[CV 1/30] END base_estimator__max_depth=4, 0.035, 175, 0.761, 31.3s
+[CV 2/30] END base_estimator__max_depth=4, 0.035, 175, 0.754, 31.3s
+[CV 3/30] END base_estimator__max_depth=4, 0.035, 175, 0.752, 31.5s
+[CV 4/30] END base_estimator__max_depth=4, 0.035, 175, 0.746, 30.8s
+[CV 5/30] END base_estimator__max_depth=4, 0.035, 175, 0.777, 31.1s
+[CV 6/30] END base_estimator__max_depth=4, 0.035, 175, 0.750, 30.5s
+[CV 7/30] END base_estimator__max_depth=4, 0.035, 175, 0.752, 31.0s
+[CV 8/30] END base_estimator__max_depth=4, 0.035, 175, 0.764, 30.6s
+[CV 9/30] END base_estimator__max_depth=4, 0.035, 175, 0.774, 30.5s
+[CV 10/30] END base_estimator__max_depth=4, 0.035, 175, 0.747, 30.7s
+[CV 11/30] END base_estimator__max_depth=4, 0.035, 175, 0.776, 30.5s
+[CV 12/30] END base_estimator__max_depth=4, 0.035, 175, 0.749, 31.0s
+[CV 13/30] END base_estimator__max_depth=4, 0.035, 175, 0.770, 30.8s
+[CV 14/30] END base_estimator__max_depth=4, 0.035, 175, 0.775, 30.5s
+[CV 15/30] END base_estimator__max_depth=4, 0.035, 175, 0.777, 30.3s
+[CV 16/30] END base_estimator__max_depth=4, 0.035, 175, 0.738, 31.5s
+[CV 17/30] END base_estimator__max_depth=4, 0.035, 175, 0.743, 31.7s
+[CV 18/30] END base_estimator__max_depth=4, 0.035, 175, 0.747, 31.6s
+[CV 19/30] END base_estimator__max_depth=4, 0.035, 175, 0.749, 31.6s
+[CV 20/30] END base_estimator__max_depth=4, 0.035, 175, 0.768, 31.6s
+[CV 21/30] END base_estimator__max_depth=4, 0.035, 175, 0.756, 30.5s
+[CV 22/30] END base_estimator__max_depth=4, 0.035, 175, 0.749, 30.6s
+[CV 23/30] END base_estimator__max_depth=4, 0.035, 175, 0.773, 30.6s
+[CV 24/30] END base_estimator__max_depth=4, 0.035, 175, 0.787, 30.9s
+[CV 25/30] END base_estimator__max_depth=4, 0.035, 175, 0.752, 30.9s
+[CV 26/30] END base_estimator__max_depth=4, 0.035, 175, 0.770, 31.3s
+[CV 27/30] END base_estimator__max_depth=4, 0.035, 175, 0.768, 31.4s
+[CV 28/30] END base_estimator__max_depth=4, 0.035, 175, 0.738, 31.5s
+[CV 29/30] END base_estimator__max_depth=4, 0.035, 175, 0.748, 31.2s
+[CV 30/30] END base_estimator__max_depth=4, 0.035, 175, 0.741, 31.2s
+[CV 1/30] END base_estimator__max_depth=4, 0.035, 200, 0.759, 48.2s
+[CV 3/30] END base_estimator__max_depth=4, 0.035, 200, 0.753, 49.7s
+[CV 2/30] END base_estimator__max_depth=4, 0.035, 200, 0.749, 50.4s
+[CV 4/30] END base_estimator__max_depth=4, 0.035, 200, 0.747, 50.7s
+[CV 5/30] END base_estimator__max_depth=4, 0.035, 200, 0.774, 51.6s
+[CV 6/30] END base_estimator__max_depth=4, 0.035, 200, 0.752, 45.6s
+[CV 7/30] END base_estimator__max_depth=4, 0.035, 200, 0.755, 44.7s
+[CV 8/30] END base_estimator__max_depth=4, 0.035, 200, 0.762, 44.4s
+[CV 9/30] END base_estimator__max_depth=4, 0.035, 200, 0.780, 43.9s
+[CV 10/30] END base_estimator__max_depth=4, 0.035, 200, 0.747, 43.4s
+[CV 11/30] END base_estimator__max_depth=4, 0.035, 200, 0.781, 39.6s
+[CV 13/30] END base_estimator__max_depth=4, 0.035, 200, 0.771, 39.2s
+[CV 12/30] END base_estimator__max_depth=4, 0.035, 200, 0.747, 39.7s
+[CV 14/30] END base_estimator__max_depth=4, 0.035, 200, 0.778, 39.2s
+[CV 15/30] END base_estimator__max_depth=4, 0.035, 200, 0.778, 39.1s
+[CV 16/30] END base_estimator__max_depth=4, 0.035, 200, 0.737, 38.6s
+[CV 17/30] END base_estimator__max_depth=4, 0.035, 200, 0.734, 38.4s
+[CV 18/30] END base_estimator__max_depth=4, 0.035, 200, 0.750, 38.4s
+[CV 19/30] END base_estimator__max_depth=4, 0.035, 200, 0.749, 38.2s
+[CV 20/30] END base_estimator__max_depth=4, 0.035, 200, 0.770, 38.4s
+[CV 21/30] END base_estimator__max_depth=4, 0.035, 200, 0.757, 36.4s
+[CV 22/30] END base_estimator__max_depth=4, 0.035, 200, 0.750, 37.1s
+[CV 23/30] END base_estimator__max_depth=4, 0.035, 200, 0.770, 36.9s
+[CV 24/30] END base_estimator__max_depth=4, 0.035, 200, 0.783, 36.9s
+[CV 25/30] END base_estimator__max_depth=4, 0.035, 200, 0.749, 37.1s
+[CV 26/30] END base_estimator__max_depth=4, 0.035, 200, 0.768, 38.8s
+[CV 27/30] END base_estimator__max_depth=4, 0.035, 200, 0.770, 38.8s
+[CV 28/30] END base_estimator__max_depth=4, 0.035, 200, 0.741, 38.9s
+[CV 29/30] END base_estimator__max_depth=4, 0.035, 200, 0.751, 38.7s
+[CV 30/30] END base_estimator__max_depth=4, 0.035, 200, 0.745, 39.1s
+[CV 1/30] END base_estimator__max_depth=4, 0.035, 225, 0.753, 43.3s
+[CV 2/30] END base_estimator__max_depth=4, 0.035, 225, 0.749, 43.1s
+[CV 3/30] END base_estimator__max_depth=4, 0.035, 225, 0.748, 42.9s
+[CV 4/30] END base_estimator__max_depth=4, 0.035, 225, 0.746, 42.9s
+[CV 5/30] END base_estimator__max_depth=4, 0.035, 225, 0.772, 43.4s
+[CV 6/30] END base_estimator__max_depth=4, 0.035, 225, 0.753, 43.2s
+[CV 7/30] END base_estimator__max_depth=4, 0.035, 225, 0.750, 42.8s
+[CV 9/30] END base_estimator__max_depth=4, 0.035, 225, 0.776, 43.1s
+[CV 8/30] END base_estimator__max_depth=4, 0.035, 225, 0.762, 43.4s
+[CV 10/30] END base_estimator__max_depth=4, 0.035, 225, 0.748, 42.6s
+[CV 11/30] END base_estimator__max_depth=4, 0.035, 225, 0.778, 38.7s
+[CV 12/30] END base_estimator__max_depth=4, 0.035, 225, 0.746, 39.1s
+[CV 14/30] END base_estimator__max_depth=4, 0.035, 225, 0.772, 38.8s
+[CV 13/30] END base_estimator__max_depth=4, 0.035, 225, 0.770, 39.2s
+[CV 15/30] END base_estimator__max_depth=4, 0.035, 225, 0.779, 39.2s
+[CV 16/30] END base_estimator__max_depth=4, 0.035, 225, 0.739, 44.0s
+[CV 17/30] END base_estimator__max_depth=4, 0.035, 225, 0.731, 44.4s
+[CV 18/30] END base_estimator__max_depth=4, 0.035, 225, 0.748, 44.1s
+[CV 19/30] END base_estimator__max_depth=4, 0.035, 225, 0.747, 44.2s
+[CV 20/30] END base_estimator__max_depth=4, 0.035, 225, 0.774, 44.4s
+[CV 21/30] END base_estimator__max_depth=4, 0.035, 225, 0.759, 43.4s
+[CV 22/30] END base_estimator__max_depth=4, 0.035, 225, 0.750, 43.3s
+[CV 23/30] END base_estimator__max_depth=4, 0.035, 225, 0.771, 43.6s
+[CV 24/30] END base_estimator__max_depth=4, 0.035, 225, 0.782, 43.7s
+[CV 25/30] END base_estimator__max_depth=4, 0.035, 225, 0.754, 43.9s
+[CV 26/30] END base_estimator__max_depth=4, 0.035, 225, 0.768, 43.3s
+[CV 27/30] END base_estimator__max_depth=4, 0.035, 225, 0.765, 43.9s
+[CV 28/30] END base_estimator__max_depth=4, 0.035, 225, 0.746, 43.6s
+[CV 29/30] END base_estimator__max_depth=4, 0.035, 225, 0.749, 43.5s
+[CV 30/30] END base_estimator__max_depth=4, 0.035, 225, 0.746, 43.0s
+[CV 1/30] END base_estimator__max_depth=5, 0.025, 175, 0.762, 38.2s
+[CV 2/30] END base_estimator__max_depth=5, 0.025, 175, 0.746, 37.3s
+[CV 3/30] END base_estimator__max_depth=5, 0.025, 175, 0.751, 37.5s
+[CV 4/30] END base_estimator__max_depth=5, 0.025, 175, 0.745, 37.8s
+[CV 5/30] END base_estimator__max_depth=5, 0.025, 175, 0.776, 37.3s
+[CV 6/30] END base_estimator__max_depth=5, 0.025, 175, 0.745, 39.9s
+[CV 8/30] END base_estimator__max_depth=5, 0.025, 175, 0.759, 40.4s
+[CV 7/30] END base_estimator__max_depth=5, 0.025, 175, 0.757, 40.8s
+[CV 9/30] END base_estimator__max_depth=5, 0.025, 175, 0.779, 40.8s
+[CV 10/30] END base_estimator__max_depth=5, 0.025, 175, 0.743, 40.4s
+[CV 11/30] END base_estimator__max_depth=5, 0.025, 175, 0.774, 41.4s
+[CV 12/30] END base_estimator__max_depth=5, 0.025, 175, 0.746, 41.3s
+[CV 13/30] END base_estimator__max_depth=5, 0.025, 175, 0.769, 41.5s
+[CV 14/30] END base_estimator__max_depth=5, 0.025, 175, 0.772, 41.8s
+[CV 15/30] END base_estimator__max_depth=5, 0.025, 175, 0.772, 41.3s
+[CV 16/30] END base_estimator__max_depth=5, 0.025, 175, 0.742, 41.5s
+[CV 17/30] END base_estimator__max_depth=5, 0.025, 175, 0.741, 41.4s
+[CV 18/30] END base_estimator__max_depth=5, 0.025, 175, 0.747, 41.8s
+[CV 19/30] END base_estimator__max_depth=5, 0.025, 175, 0.748, 41.4s
+[CV 20/30] END base_estimator__max_depth=5, 0.025, 175, 0.766, 41.8s
+[CV 21/30] END base_estimator__max_depth=5, 0.025, 175, 0.758, 41.4s
+[CV 22/30] END base_estimator__max_depth=5, 0.025, 175, 0.742, 41.1s
+[CV 23/30] END base_estimator__max_depth=5, 0.025, 175, 0.774, 40.7s
+[CV 24/30] END base_estimator__max_depth=5, 0.025, 175, 0.781, 40.5s
+[CV 25/30] END base_estimator__max_depth=5, 0.025, 175, 0.753, 40.5s
+[CV 26/30] END base_estimator__max_depth=5, 0.025, 175, 0.767, 36.8s
+[CV 27/30] END base_estimator__max_depth=5, 0.025, 175, 0.771, 36.8s
+[CV 28/30] END base_estimator__max_depth=5, 0.025, 175, 0.739, 36.8s
+[CV 29/30] END base_estimator__max_depth=5, 0.025, 175, 0.751, 36.8s
+[CV 30/30] END base_estimator__max_depth=5, 0.025, 175, 0.747, 36.8s
+[CV 1/30] END base_estimator__max_depth=5, 0.025, 200, 0.759, 41.8s
+[CV 2/30] END base_estimator__max_depth=5, 0.025, 200, 0.745, 41.4s
+[CV 3/30] END base_estimator__max_depth=5, 0.025, 200, 0.750, 41.9s
+[CV 4/30] END base_estimator__max_depth=5, 0.025, 200, 0.745, 42.2s
+[CV 5/30] END base_estimator__max_depth=5, 0.025, 200, 0.774, 41.7s
+[CV 6/30] END base_estimator__max_depth=5, 0.025, 200, 0.747, 42.6s
+[CV 7/30] END base_estimator__max_depth=5, 0.025, 200, 0.755, 42.4s
+[CV 8/30] END base_estimator__max_depth=5, 0.025, 200, 0.761, 42.3s
+[CV 9/30] END base_estimator__max_depth=5, 0.025, 200, 0.779, 42.5s
+[CV 10/30] END base_estimator__max_depth=5, 0.025, 200, 0.745, 42.4s
+[CV 11/30] END base_estimator__max_depth=5, 0.025, 200, 0.777, 40.8s
+[CV 12/30] END base_estimator__max_depth=5, 0.025, 200, 0.746, 41.3s
+[CV 13/30] END base_estimator__max_depth=5, 0.025, 200, 0.770, 41.0s
+[CV 14/30] END base_estimator__max_depth=5, 0.025, 200, 0.774, 41.0s
+[CV 15/30] END base_estimator__max_depth=5, 0.025, 200, 0.775, 41.0s
+[CV 16/30] END base_estimator__max_depth=5, 0.025, 200, 0.741, 41.3s
+[CV 17/30] END base_estimator__max_depth=5, 0.025, 200, 0.739, 41.9s
+[CV 18/30] END base_estimator__max_depth=5, 0.025, 200, 0.747, 41.4s
+[CV 19/30] END base_estimator__max_depth=5, 0.025, 200, 0.746, 41.7s
+[CV 20/30] END base_estimator__max_depth=5, 0.025, 200, 0.766, 41.7s
+[CV 21/30] END base_estimator__max_depth=5, 0.025, 200, 0.755, 41.6s
+[CV 22/30] END base_estimator__max_depth=5, 0.025, 200, 0.746, 41.2s
+[CV 23/30] END base_estimator__max_depth=5, 0.025, 200, 0.774, 41.4s
+[CV 25/30] END base_estimator__max_depth=5, 0.025, 200, 0.755, 40.7s
+[CV 24/30] END base_estimator__max_depth=5, 0.025, 200, 0.781, 41.5s
+[CV 26/30] END base_estimator__max_depth=5, 0.025, 200, 0.768, 40.8s
+[CV 27/30] END base_estimator__max_depth=5, 0.025, 200, 0.767, 41.0s
+[CV 28/30] END base_estimator__max_depth=5, 0.025, 200, 0.742, 40.7s
+[CV 29/30] END base_estimator__max_depth=5, 0.025, 200, 0.747, 40.7s
+[CV 30/30] END base_estimator__max_depth=5, 0.025, 200, 0.749, 40.5s
+[CV 1/30] END base_estimator__max_depth=5, 0.025, 225, 0.756, 45.6s
+[CV 2/30] END base_estimator__max_depth=5, 0.025, 225, 0.739, 45.7s
+[CV 3/30] END base_estimator__max_depth=5, 0.025, 225, 0.751, 45.9s
+[CV 5/30] END base_estimator__max_depth=5, 0.025, 225, 0.771, 46.1s
+[CV 4/30] END base_estimator__max_depth=5, 0.025, 225, 0.744, 46.4s
+[CV 6/30] END base_estimator__max_depth=5, 0.025, 225, 0.748, 46.2s
+[CV 8/30] END base_estimator__max_depth=5, 0.025, 225, 0.762, 46.0s
+[CV 7/30] END base_estimator__max_depth=5, 0.025, 225, 0.759, 46.6s
+[CV 9/30] END base_estimator__max_depth=5, 0.025, 225, 0.779, 46.2s
+[CV 10/30] END base_estimator__max_depth=5, 0.025, 225, 0.743, 46.4s
+[CV 11/30] END base_estimator__max_depth=5, 0.025, 225, 0.774, 45.8s
+[CV 12/30] END base_estimator__max_depth=5, 0.025, 225, 0.744, 45.5s
+[CV 13/30] END base_estimator__max_depth=5, 0.025, 225, 0.775, 46.4s
+[CV 14/30] END base_estimator__max_depth=5, 0.025, 225, 0.771, 46.0s
+[CV 15/30] END base_estimator__max_depth=5, 0.025, 225, 0.771, 46.1s
+[CV 16/30] END base_estimator__max_depth=5, 0.025, 225, 0.742, 45.5s
+[CV 17/30] END base_estimator__max_depth=5, 0.025, 225, 0.741, 45.8s
+[CV 18/30] END base_estimator__max_depth=5, 0.025, 225, 0.745, 45.5s
+[CV 19/30] END base_estimator__max_depth=5, 0.025, 225, 0.746, 46.0s
+[CV 20/30] END base_estimator__max_depth=5, 0.025, 225, 0.766, 45.7s
+[CV 21/30] END base_estimator__max_depth=5, 0.025, 225, 0.756, 45.9s
+[CV 22/30] END base_estimator__max_depth=5, 0.025, 225, 0.745, 45.9s
+[CV 23/30] END base_estimator__max_depth=5, 0.025, 225, 0.768, 46.5s
+[CV 25/30] END base_estimator__max_depth=5, 0.025, 225, 0.753, 46.1s
+[CV 24/30] END base_estimator__max_depth=5, 0.025, 225, 0.779, 46.5s
+[CV 26/30] END base_estimator__max_depth=5, 0.025, 225, 0.769, 45.9s
+[CV 27/30] END base_estimator__max_depth=5, 0.025, 225, 0.764, 46.0s
+[CV 28/30] END base_estimator__max_depth=5, 0.025, 225, 0.742, 46.1s
+[CV 29/30] END base_estimator__max_depth=5, 0.025, 225, 0.750, 45.9s
+[CV 30/30] END base_estimator__max_depth=5, 0.025, 225, 0.752, 46.1s
+[CV 1/30] END base_estimator__max_depth=5, 0.03, 175, 0.753, 35.7s
+[CV 2/30] END base_estimator__max_depth=5, 0.03, 175, 0.742, 35.7s
+[CV 3/30] END base_estimator__max_depth=5, 0.03, 175, 0.753, 35.9s
+[CV 4/30] END base_estimator__max_depth=5, 0.03, 175, 0.742, 35.6s
+[CV 5/30] END base_estimator__max_depth=5, 0.03, 175, 0.776, 35.8s
+[CV 6/30] END base_estimator__max_depth=5, 0.03, 175, 0.748, 35.5s
+[CV 7/30] END base_estimator__max_depth=5, 0.03, 175, 0.760, 35.7s
+[CV 8/30] END base_estimator__max_depth=5, 0.03, 175, 0.767, 36.0s
+[CV 9/30] END base_estimator__max_depth=5, 0.03, 175, 0.783, 36.0s
+[CV 10/30] END base_estimator__max_depth=5, 0.03, 175, 0.748, 36.2s
+[CV 11/30] END base_estimator__max_depth=5, 0.03, 175, 0.778, 35.5s
+[CV 12/30] END base_estimator__max_depth=5, 0.03, 175, 0.742, 35.6s
+[CV 13/30] END base_estimator__max_depth=5, 0.03, 175, 0.778, 35.8s
+[CV 14/30] END base_estimator__max_depth=5, 0.03, 175, 0.775, 36.3s
+[CV 15/30] END base_estimator__max_depth=5, 0.03, 175, 0.771, 36.0s
+[CV 16/30] END base_estimator__max_depth=5, 0.03, 175, 0.742, 35.7s
+[CV 17/30] END base_estimator__max_depth=5, 0.03, 175, 0.739, 35.9s
+[CV 18/30] END base_estimator__max_depth=5, 0.03, 175, 0.747, 35.7s
+[CV 19/30] END base_estimator__max_depth=5, 0.03, 175, 0.746, 35.4s
+[CV 20/30] END base_estimator__max_depth=5, 0.03, 175, 0.769, 35.9s
+[CV 21/30] END base_estimator__max_depth=5, 0.03, 175, 0.755, 35.7s
+[CV 22/30] END base_estimator__max_depth=5, 0.03, 175, 0.744, 35.7s
+[CV 23/30] END base_estimator__max_depth=5, 0.03, 175, 0.775, 36.3s
+[CV 24/30] END base_estimator__max_depth=5, 0.03, 175, 0.774, 35.9s
+[CV 25/30] END base_estimator__max_depth=5, 0.03, 175, 0.749, 35.6s
+[CV 26/30] END base_estimator__max_depth=5, 0.03, 175, 0.777, 35.8s
+[CV 27/30] END base_estimator__max_depth=5, 0.03, 175, 0.766, 36.0s
+[CV 29/30] END base_estimator__max_depth=5, 0.03, 175, 0.750, 35.6s
+[CV 28/30] END base_estimator__max_depth=5, 0.03, 175, 0.745, 36.2s
+[CV 30/30] END base_estimator__max_depth=5, 0.03, 175, 0.745, 35.9s
+[CV 1/30] END base_estimator__max_depth=5, 0.03, 200, 0.750, 40.8s
+[CV 2/30] END base_estimator__max_depth=5, 0.03, 200, 0.743, 40.5s
+[CV 3/30] END base_estimator__max_depth=5, 0.03, 200, 0.744, 40.3s
+[CV 4/30] END base_estimator__max_depth=5, 0.03, 200, 0.746, 41.2s
+[CV 5/30] END base_estimator__max_depth=5, 0.03, 200, 0.771, 40.9s
+[CV 6/30] END base_estimator__max_depth=5, 0.03, 200, 0.747, 41.1s
+[CV 7/30] END base_estimator__max_depth=5, 0.03, 200, 0.757, 41.2s
+[CV 8/30] END base_estimator__max_depth=5, 0.03, 200, 0.765, 41.5s
+[CV 9/30] END base_estimator__max_depth=5, 0.03, 200, 0.780, 41.2s
+[CV 10/30] END base_estimator__max_depth=5, 0.03, 200, 0.748, 41.1s
+[CV 11/30] END base_estimator__max_depth=5, 0.03, 200, 0.774, 45.2s
+[CV 12/30] END base_estimator__max_depth=5, 0.03, 200, 0.739, 45.8s
+[CV 13/30] END base_estimator__max_depth=5, 0.03, 200, 0.778, 46.3s
+[CV 14/30] END base_estimator__max_depth=5, 0.03, 200, 0.774, 46.0s
+[CV 15/30] END base_estimator__max_depth=5, 0.03, 200, 0.771, 46.5s
+[CV 16/30] END base_estimator__max_depth=5, 0.03, 200, 0.739, 47.9s
+[CV 17/30] END base_estimator__max_depth=5, 0.03, 200, 0.734, 47.3s
+[CV 18/30] END base_estimator__max_depth=5, 0.03, 200, 0.745, 46.9s
+[CV 19/30] END base_estimator__max_depth=5, 0.03, 200, 0.746, 47.0s
+[CV 20/30] END base_estimator__max_depth=5, 0.03, 200, 0.773, 46.4s
+[CV 21/30] END base_estimator__max_depth=5, 0.03, 200, 0.760, 41.0s
+[CV 22/30] END base_estimator__max_depth=5, 0.03, 200, 0.745, 41.2s
+[CV 24/30] END base_estimator__max_depth=5, 0.03, 200, 0.776, 41.2s
+[CV 23/30] END base_estimator__max_depth=5, 0.03, 200, 0.771, 42.1s
+[CV 25/30] END base_estimator__max_depth=5, 0.03, 200, 0.751, 42.1s
+[CV 26/30] END base_estimator__max_depth=5, 0.03, 200, 0.773, 42.8s
+[CV 27/30] END base_estimator__max_depth=5, 0.03, 200, 0.763, 43.6s
+[CV 28/30] END base_estimator__max_depth=5, 0.03, 200, 0.743, 42.6s
+[CV 29/30] END base_estimator__max_depth=5, 0.03, 200, 0.748, 42.6s
+[CV 30/30] END base_estimator__max_depth=5, 0.03, 200, 0.749, 42.6s
+[CV 1/30] END base_estimator__max_depth=5, 0.03, 225, 0.749, 46.4s
+[CV 2/30] END base_estimator__max_depth=5, 0.03, 225, 0.743, 45.5s
+[CV 3/30] END base_estimator__max_depth=5, 0.03, 225, 0.747, 46.1s
+[CV 4/30] END base_estimator__max_depth=5, 0.03, 225, 0.745, 46.2s
+[CV 5/30] END base_estimator__max_depth=5, 0.03, 225, 0.770, 45.4s
+[CV 6/30] END base_estimator__max_depth=5, 0.03, 225, 0.744, 45.7s
+[CV 7/30] END base_estimator__max_depth=5, 0.03, 225, 0.762, 45.3s
+[CV 8/30] END base_estimator__max_depth=5, 0.03, 225, 0.768, 45.6s
+[CV 9/30] END base_estimator__max_depth=5, 0.03, 225, 0.779, 45.6s
+[CV 10/30] END base_estimator__max_depth=5, 0.03, 225, 0.748, 46.0s
+[CV 11/30] END base_estimator__max_depth=5, 0.03, 225, 0.779, 45.6s
+[CV 12/30] END base_estimator__max_depth=5, 0.03, 225, 0.741, 45.7s
+[CV 13/30] END base_estimator__max_depth=5, 0.03, 225, 0.780, 45.5s
+[CV 14/30] END base_estimator__max_depth=5, 0.03, 225, 0.773, 45.7s
+[CV 15/30] END base_estimator__max_depth=5, 0.03, 225, 0.768, 45.9s
+[CV 16/30] END base_estimator__max_depth=5, 0.03, 225, 0.742, 45.9s
+[CV 17/30] END base_estimator__max_depth=5, 0.03, 225, 0.730, 45.9s
+[CV 18/30] END base_estimator__max_depth=5, 0.03, 225, 0.746, 46.2s
+[CV 19/30] END base_estimator__max_depth=5, 0.03, 225, 0.746, 46.4s
+[CV 20/30] END base_estimator__max_depth=5, 0.03, 225, 0.773, 46.0s
+[CV 21/30] END base_estimator__max_depth=5, 0.03, 225, 0.754, 46.3s
+[CV 22/30] END base_estimator__max_depth=5, 0.03, 225, 0.743, 46.2s
+[CV 23/30] END base_estimator__max_depth=5, 0.03, 225, 0.770, 46.9s
+[CV 24/30] END base_estimator__max_depth=5, 0.03, 225, 0.770, 46.6s
+[CV 25/30] END base_estimator__max_depth=5, 0.03, 225, 0.748, 46.4s
+[CV 26/30] END base_estimator__max_depth=5, 0.03, 225, 0.774, 46.0s
+[CV 27/30] END base_estimator__max_depth=5, 0.03, 225, 0.761, 45.8s
+[CV 28/30] END base_estimator__max_depth=5, 0.03, 225, 0.745, 45.9s
+[CV 29/30] END base_estimator__max_depth=5, 0.03, 225, 0.744, 45.9s
+[CV 30/30] END base_estimator__max_depth=5, 0.03, 225, 0.748, 46.3s
+[CV 1/30] END base_estimator__max_depth=5, 0.035, 175, 0.756, 35.5s
+[CV 2/30] END base_estimator__max_depth=5, 0.035, 175, 0.742, 35.8s
+[CV 3/30] END base_estimator__max_depth=5, 0.035, 175, 0.746, 36.1s
+[CV 4/30] END base_estimator__max_depth=5, 0.035, 175, 0.746, 35.9s
+[CV 5/30] END base_estimator__max_depth=5, 0.035, 175, 0.772, 35.5s
+[CV 6/30] END base_estimator__max_depth=5, 0.035, 175, 0.746, 35.8s
+[CV 7/30] END base_estimator__max_depth=5, 0.035, 175, 0.761, 36.3s
+[CV 8/30] END base_estimator__max_depth=5, 0.035, 175, 0.768, 35.9s
+[CV 9/30] END base_estimator__max_depth=5, 0.035, 175, 0.781, 35.7s
+[CV 10/30] END base_estimator__max_depth=5, 0.035, 175, 0.748, 36.3s
+[CV 11/30] END base_estimator__max_depth=5, 0.035, 175, 0.775, 35.5s
+[CV 12/30] END base_estimator__max_depth=5, 0.035, 175, 0.745, 36.4s
+[CV 13/30] END base_estimator__max_depth=5, 0.035, 175, 0.771, 35.9s
+[CV 14/30] END base_estimator__max_depth=5, 0.035, 175, 0.771, 36.4s
+[CV 15/30] END base_estimator__max_depth=5, 0.035, 175, 0.773, 36.1s
+[CV 16/30] END base_estimator__max_depth=5, 0.035, 175, 0.742, 35.7s
+[CV 17/30] END base_estimator__max_depth=5, 0.035, 175, 0.736, 35.6s
+[CV 18/30] END base_estimator__max_depth=5, 0.035, 175, 0.749, 35.6s
+[CV 19/30] END base_estimator__max_depth=5, 0.035, 175, 0.748, 35.9s
+[CV 20/30] END base_estimator__max_depth=5, 0.035, 175, 0.772, 36.0s
+[CV 21/30] END base_estimator__max_depth=5, 0.035, 175, 0.757, 35.8s
+[CV 22/30] END base_estimator__max_depth=5, 0.035, 175, 0.743, 35.7s
+[CV 23/30] END base_estimator__max_depth=5, 0.035, 175, 0.774, 36.3s
+[CV 24/30] END base_estimator__max_depth=5, 0.035, 175, 0.777, 35.6s
+[CV 25/30] END base_estimator__max_depth=5, 0.035, 175, 0.751, 35.7s
+[CV 26/30] END base_estimator__max_depth=5, 0.035, 175, 0.772, 35.9s
+[CV 27/30] END base_estimator__max_depth=5, 0.035, 175, 0.759, 36.0s
+[CV 28/30] END base_estimator__max_depth=5, 0.035, 175, 0.748, 36.1s
+[CV 30/30] END base_estimator__max_depth=5, 0.035, 175, 0.749, 35.6s
+[CV 29/30] END base_estimator__max_depth=5, 0.035, 175, 0.748, 36.0s
+[CV 1/30] END base_estimator__max_depth=5, 0.035, 200, 0.756, 41.9s
+[CV 2/30] END base_estimator__max_depth=5, 0.035, 200, 0.743, 41.9s
+[CV 4/30] END base_estimator__max_depth=5, 0.035, 200, 0.744, 41.2s
+[CV 3/30] END base_estimator__max_depth=5, 0.035, 200, 0.740, 41.8s
+[CV 5/30] END base_estimator__max_depth=5, 0.035, 200, 0.775, 41.7s
+[CV 6/30] END base_estimator__max_depth=5, 0.035, 200, 0.746, 40.4s
+[CV 7/30] END base_estimator__max_depth=5, 0.035, 200, 0.758, 40.7s
+[CV 8/30] END base_estimator__max_depth=5, 0.035, 200, 0.769, 41.2s
+[CV 9/30] END base_estimator__max_depth=5, 0.035, 200, 0.778, 41.4s
+[CV 10/30] END base_estimator__max_depth=5, 0.035, 200, 0.750, 41.4s
+[CV 11/30] END base_estimator__max_depth=5, 0.035, 200, 0.774, 41.4s
+[CV 12/30] END base_estimator__max_depth=5, 0.035, 200, 0.746, 41.3s
+[CV 13/30] END base_estimator__max_depth=5, 0.035, 200, 0.772, 41.1s
+[CV 15/30] END base_estimator__max_depth=5, 0.035, 200, 0.772, 40.7s
+[CV 14/30] END base_estimator__max_depth=5, 0.035, 200, 0.772, 41.2s
+[CV 16/30] END base_estimator__max_depth=5, 0.035, 200, 0.746, 40.6s
+[CV 17/30] END base_estimator__max_depth=5, 0.035, 200, 0.729, 41.1s
+[CV 19/30] END base_estimator__max_depth=5, 0.035, 200, 0.751, 40.6s
+[CV 18/30] END base_estimator__max_depth=5, 0.035, 200, 0.748, 41.1s
+[CV 20/30] END base_estimator__max_depth=5, 0.035, 200, 0.774, 40.8s
+[CV 21/30] END base_estimator__max_depth=5, 0.035, 200, 0.753, 41.0s
+[CV 22/30] END base_estimator__max_depth=5, 0.035, 200, 0.745, 41.2s
+[CV 25/30] END base_estimator__max_depth=5, 0.035, 200, 0.749, 41.2s
+[CV 23/30] END base_estimator__max_depth=5, 0.035, 200, 0.770, 41.6s
+[CV 24/30] END base_estimator__max_depth=5, 0.035, 200, 0.777, 41.5s
+[CV 26/30] END base_estimator__max_depth=5, 0.035, 200, 0.770, 41.7s
+[CV 27/30] END base_estimator__max_depth=5, 0.035, 200, 0.758, 42.0s
+[CV 29/30] END base_estimator__max_depth=5, 0.035, 200, 0.748, 42.7s
+[CV 28/30] END base_estimator__max_depth=5, 0.035, 200, 0.746, 42.9s
+[CV 30/30] END base_estimator__max_depth=5, 0.035, 200, 0.751, 42.9s
+[CV 1/30] END base_estimator__max_depth=5, 0.035, 225, 0.755, 50.8s
+[CV 2/30] END base_estimator__max_depth=5, 0.035, 225, 0.741, 50.7s
+[CV 3/30] END base_estimator__max_depth=5, 0.035, 225, 0.736, 50.7s
+[CV 5/30] END base_estimator__max_depth=5, 0.035, 225, 0.775, 50.5s
+[CV 4/30] END base_estimator__max_depth=5, 0.035, 225, 0.743, 50.9s
+[CV 6/30] END base_estimator__max_depth=5, 0.035, 225, 0.748, 56.4s
+[CV 7/30] END base_estimator__max_depth=5, 0.035, 225, 0.759, 57.2s
+[CV 9/30] END base_estimator__max_depth=5, 0.035, 225, 0.773, 57.3s
+[CV 8/30] END base_estimator__max_depth=5, 0.035, 225, 0.768, 58.1s
+[CV 10/30] END base_estimator__max_depth=5, 0.035, 225, 0.743, 58.1s
+[CV 11/30] END base_estimator__max_depth=5, 0.035, 225, 0.775, 52.1s
+[CV 12/30] END base_estimator__max_depth=5, 0.035, 225, 0.741, 52.0s
+[CV 13/30] END base_estimator__max_depth=5, 0.035, 225, 0.776, 51.2s
+[CV 15/30] END base_estimator__max_depth=5, 0.035, 225, 0.772, 51.3s
+[CV 14/30] END base_estimator__max_depth=5, 0.035, 225, 0.768, 52.2s
+[CV 16/30] END base_estimator__max_depth=5, 0.035, 225, 0.746, 51.5s
+[CV 17/30] END base_estimator__max_depth=5, 0.035, 225, 0.726, 52.2s
+[CV 18/30] END base_estimator__max_depth=5, 0.035, 225, 0.743, 51.9s
+[CV 20/30] END base_estimator__max_depth=5, 0.035, 225, 0.772, 51.1s
+[CV 19/30] END base_estimator__max_depth=5, 0.035, 225, 0.753, 51.8s
+[CV 21/30] END base_estimator__max_depth=5, 0.035, 225, 0.755, 51.4s
+[CV 22/30] END base_estimator__max_depth=5, 0.035, 225, 0.741, 55.3s
+[CV 23/30] END base_estimator__max_depth=5, 0.035, 225, 0.765, 55.6s
+[CV 25/30] END base_estimator__max_depth=5, 0.035, 225, 0.746, 55.4s
+[CV 24/30] END base_estimator__max_depth=5, 0.035, 225, 0.774, 55.8s
+[CV 26/30] END base_estimator__max_depth=5, 0.035, 225, 0.771, 55.2s
+[CV 27/30] END base_estimator__max_depth=5, 0.035, 225, 0.757, 50.8s
+[CV 28/30] END base_estimator__max_depth=5, 0.035, 225, 0.747, 49.7s
+[CV 29/30] END base_estimator__max_depth=5, 0.035, 225, 0.745, 49.4s
+[CV 30/30] END base_estimator__max_depth=5, 0.035, 225, 0.754, 49.6s
